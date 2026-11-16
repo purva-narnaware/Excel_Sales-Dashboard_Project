@@ -6,6 +6,9 @@ The **Executive Summary & Profitability Dashboard** is an interactive business i
 
 It provides a consolidated view of key business performance indicators (KPIs), helping stakeholders monitor financial performance, identify revenue trends, and make data-driven business decisions.
 
+## Dashboard Files
+
+
 ## 🎯 Project Objectives
 
 - Monitor overall sales and financial performance.
